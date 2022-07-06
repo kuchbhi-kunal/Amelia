@@ -1,3 +1,3 @@
 # Amelia
 Reactiv Design System
-![Logo](assets/amelia.svg)
+![Logo](assets/amelia.png)
